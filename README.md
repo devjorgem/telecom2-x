@@ -18,3 +18,4 @@ Entrenamiento de tres modelos:
 Logistic Regression, KNN y SVM
 
 
+<img width="560" height="95" alt="image" src="https://github.com/user-attachments/assets/b73b26c8-34cb-4d22-bcbf-6f3a8006bc84" />
