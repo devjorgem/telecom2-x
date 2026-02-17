@@ -15,9 +15,6 @@ Balanceo del set de entrenamiento usando SMOTE
 
 Entrenamiento de tres modelos:
 
-Logistic Regression
+Logistic Regression, KNN y SVM
 
-KNN
-
-SVM
 
