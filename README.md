@@ -21,20 +21,3 @@ KNN
 
 SVM
 
-Evaluación con métricas:
-
-Accuracy
-
-Precision
-
-Recall
-
-F1-score
-
-ROC-AUC
-
-📊 Resultados
-Modelo	Accuracy	Precision	Recall	F1	ROC-AUC
-Logistic Regression	0.765	0.539	0.786	0.640	0.853
-KNN	0.687	0.446	0.735	0.556	0.760
-SVM	0.767	0.549	0.693	0.612	0.826
